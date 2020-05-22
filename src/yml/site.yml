@@ -19,3 +19,4 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+paginate: 5
