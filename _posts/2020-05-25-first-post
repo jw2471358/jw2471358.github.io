@@ -1,5 +1,5 @@
 ---
-date: 2020-05-25 18:26:59
+# date: 2020-05-25 18:26:59
 layout: post
 title: first post
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
