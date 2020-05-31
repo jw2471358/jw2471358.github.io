@@ -2,8 +2,8 @@
 # date: 2020-05-25 18:26:59
 layout: post
 title: first post
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: 첫번째 포스트. 테스트..
+description: 첫번째 포스트. 테스트......
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
@@ -12,6 +12,22 @@ tags:
   - tips
 author: thiagorossener
 ---
+
+Window환경에서 github blog 만들기
+
+C:\blog\jekflix-template
+
+Then install Jekyll and Gulp client
+'''python
+$ gem install jekyll
+
+$ npm install gulp-cli -g
+git clone https://github.com/<your-github-username>/jekflix-template.git
+
+git clone https://github.com/jw2471358.github.io/jekflix-template.git
+
+git clone https://github.com/jw2471358/jekflix-template.git
+
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
