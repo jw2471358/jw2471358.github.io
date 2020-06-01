@@ -3,7 +3,7 @@ layout: post
 title: 개발자 참고 site
 subtitle: 개발자 참고 site
 description: 개발자 참고 site
-image: 
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001463/pixabay/meteora-4074026_1920_vyrplw.jpg
 category: developer
 tags:
   - developer

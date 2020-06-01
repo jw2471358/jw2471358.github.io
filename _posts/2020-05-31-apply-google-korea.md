@@ -3,7 +3,7 @@ layout: post
 title: 구글 코리아 채용
 subtitle: 구글 코리아 채용
 description: 구글 코리아 채용
-image: 
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001463/pixabay/punta-bianca-4501076_1920_jjjhdv.jpg
 category: job
 tags:
   - google korea

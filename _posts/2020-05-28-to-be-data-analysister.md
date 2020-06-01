@@ -3,7 +3,7 @@ layout: post
 title: 데이터 분석가가 되기 위해
 subtitle: 어떤 교육 과정이 있는가?
 description: 어떤 교육 과정이 있는가?
-image: 
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001463/pixabay/facade-5220194_1920_thjdef.jpg
 category: data analyst
 tags:
   - data analysis

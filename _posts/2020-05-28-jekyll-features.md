@@ -3,7 +3,7 @@ layout: post
 title: Jekyll 이란?
 subtitle: Jekyll 이란? History, Features
 description: Jekyll 이란? History, Features
-image: 
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001463/pixabay/breakfast-5204352_1920_eg9av0.jpg
 category: css
 tags:
   - jekyll
