@@ -1,6 +1,9 @@
 # Site Settings
-name: Atom
-title: Atom | A blog theme for Jekyll
+# name
+# Type: string
+# The website name will appear in several places, the most important one is at the header.
+name: JW
+title: JW | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog

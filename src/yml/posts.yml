@@ -1,4 +1,16 @@
+# show_time_bar
+# Type: boolean
+# Show/hide the reading progress bar. It accepts the values true or false
 show_time_bar: true
+# show_modal_on_exit
+# Type: boolean
+# Show/hide recommendation modal when visitor is leaving the page. It accepts the values true or false.
 show_modal_on_exit: false
+# show_modal_on_finish_post
+# Type: boolean
+# Show/hide recommendation modal when visitor reaches the end of the post. It accepts the values true or false.
 show_modal_on_finish_post: true
+# two_columns_layout
+# Type: boolean
+# Switch posts layout between one and two column. It accepts the values true or false.
 two_columns_layout: true
