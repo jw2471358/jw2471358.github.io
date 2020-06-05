@@ -34,7 +34,7 @@ ctrl+alt+방향기 위/아래   열편집
 
 
 키| 명령 | 명령 ID  
------------- | --------------- | --------------------|
+------------ | --------------- | -------------------- 
 ctrl+Enter| 아래에 행 삽입| editor.action.insertLineAfter
 ctrl+shift+Enter| 위에 행 삽입| editor.action.insertLineBefore
 alt+Down| 행을 아래로 이동| editor.action.moveLinesDownAction
@@ -84,7 +84,8 @@ ctrl+m| 포커스 설정을 위해 Tab 키 사용 토글| editor.action.toggleTa
 alt+z| 단어 감싸기 토글| editor.action.toggleWordWrap
 
 ## 언어 편집
-키| 명령                     | 명령 ID  
+키| 명령                     | 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+스페이스바| 트리거 제안| editor.action.triggerSuggest
 ctrl+shift+스페이스바| 트리거 매개 변수 힌트| editor.action.triggerParameterHints
 shift+alt+f| 문서 서식 지정| editor.action.formatDocument
@@ -105,6 +106,7 @@ ctrl+km| 언어 모드 변경| workbench.action.editor.changeLanguageMode
 
 ### 네비게이션
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+t| 모든 기호 표시| workbench.action.showAllSymbols
 ctrl+g| 행으로 이동| workbench.action.gotoLine
 ctrl+p| 빠른 열기, 파일로 이동| workbench.action.quickOpen
@@ -139,6 +141,7 @@ ctrl+alt+왼쪽| 편집기를 이전 그룹으로 이동| workbench.action.moveE
 
 ### 파일 관리
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+n| 새탭 열기| workbench.action.files.newUntitledFile
 ctrl+o| 파일 열기| workbench.action.files.openFile
 ctrl+s| 저장| workbench.action.files.save
@@ -162,6 +165,7 @@ ctrl+ko| 현재 파일 새 창에 열기| workbench.action.files.showOpenedFileI
 
 ### 디스플레이
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 f11| 전체 화면 토글| workbench.action.toggleFullScreen
 ctrl+kz| 젠 모드 토글| workbench.action.toggleZenMode
 Escape Escape| 젠 모드에서 나가기| workbench.action.exitZenMode
@@ -183,6 +187,7 @@ ctrl+`| 통합 터미널 토글| workbench.action.terminal.toggleTerminal
 
 검색
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+shift+f| 검색보기| workbench.view.search
 ctrl+shift+h| 파일에서 바꾸기| workbench.action.replaceInFiles
 alt+c| 대 / 소문자 전환| toggleSearchCaseSensitive
@@ -196,6 +201,7 @@ alt+Up| 이전 검색 용어 표시| search.history.showPrevious
 
 환경 설정
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+,| 사용자 설정 열기| workbench.action.openGlobalSettings
 할당되지 않음| 작업 공간 설정 열기| workbench.action.openWorkspaceSettings
 ctrl+k ctrl+s| 키보드 단축키 열기| workbench.action.openGlobalKeybindings
@@ -205,6 +211,7 @@ ctrl+k ctrl+t| 색상 테마 선택| workbench.action.selectTheme
 
 ### 디버그
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 f9| 중단점 토글| editor.debug.action.toggleBreakpoint
 f5| 디버그 시작| workbench.action.debug.start
 f5| 디버그 확인| workbench.action.debug.continue
@@ -218,11 +225,13 @@ ctrl+k ctrl+i| 호버 표시| editor.debug.action.showDebugHover
 
 ### 작업주자 목록
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 ctrl+shift+b| 빌드 작업 실행| workbench.action.tasks.build
 할당되지 않음| 테스트 작업 실행| workbench.action.tasks.test
 
 ### 확장 프로그램
 키| 명령| 명령 ID
+------------ | --------------- | -------------------- 
 할당되지 않음| 확장 프로그램 설치| workbench.extensions.action.installExtension
 할당되지 않음| 설치된 확장 프로그램 표시| workbench.extensions.action.showInstalledExtensions
 할당되지 않음| 오래된 확장명 표시| workbench.extensions.action.listOutdatedExtensions
