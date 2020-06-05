@@ -3,7 +3,7 @@ layout: post
 title: 종소세 신고
 subtitle: 
 description: 종소세 신고
-image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/pixabay/cute-5157056_1920_mlvulk.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/pixabay/income-tax-491626_1920_jze9ay.jpg
 category: tax
 tags:
   - 종소세
