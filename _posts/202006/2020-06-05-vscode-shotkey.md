@@ -34,7 +34,7 @@ ctrl+alt+방향기 위/아래   열편집
 
 
 키| 명령 | 명령 ID
------------- | --------------- | -------------------- 
+------------ | --------------- | --------------------
 ctrl+Enter| 아래에 행 삽입| editor.action.insertLineAfter
 ctrl+shift+Enter| 위에 행 삽입| editor.action.insertLineBefore
 alt+Down| 행을 아래로 이동| editor.action.moveLinesDownAction
@@ -42,28 +42,28 @@ alt+Up| 행을 위로 이동| editor.action.moveLinesUpAction
 shift+alt+Down| 위에 행 복사 추가| editor.action.copyLinesDownAction
 shift+alt+Up| 아래에 행 복사 추가| editor.action.copyLinesUpAction
 ctrl+d| 다음 선택 찾기| editor.action.addSelectionToNextFindMatch
-ctrl+k ctrl+d| 마지막 선택 항목을 다음 찾기 항목으로 이동| editor.action.| moveSelectionToNextFindMatch
+ctrl+k ctrl+d| 마지막 선택 항목을 다음 찾기 항목으로 이동| editor.action.moveSelectionToNextFindMatch
 ctrl+u| 마지막 커서 작업 실행 취소| cursorUndo| 
-shift+alt+i| 선택한 각 줄 끝의 커서 삽입| editor.action.| insertCursorAtEnd| OfEachLineSelected
-ctrl+shift+l| 현재 선택 항목을 모두 선택| editor.action.| selectHighlights| 
-ctrl+f2| 현재 단어의 모든 항목 선택| editor.action.chang| eAll| 
+shift+alt+i| 선택한 각 줄 끝의 커서 삽입| editor.action.insertCursorAtEndOfEachLineSelected
+ctrl+shift+l| 현재 선택 항목을 모두 선택| editor.action.selectHighlights 
+ctrl+f2| 현재 단어의 모든 항목 선택| editor.action.changeAll
 ctrl+i| 현재 행 선택| expandLineSelection| 
-ctrl+alt+Down| 커서를 아래에 추가| editor.action.insertC| ursorBelow| 
-ctrl+alt+Up| 커서를 위에 추가| editor.action.insertCurso| rAbove| 
-ctrl+shift+\ | 일치하는 대괄호로 건너 뛰기| editor.action| .jumpToBracket| 
-ctrl +]| 라인 들여쓰기| editor.action.indentLines| 
-ctrl+[| 라인 내어쓰기| editor.action.outdentLines| 
-Home| 행의 시작으로 이동| cursorHome| 
-End| 행의 끝으로 이동| cursorEnd| 
-ctrl+End| 파일 끝으로 이동| cursorBottom| 
-ctrl+Home| 파일 시작으로 이동| cursorTop| 
-ctrl+Down| 스크롤 다운| scrollLineDown| 
-ctrl+Up| 스크롤 업| scrollLineUp| 
-alt+PageDown| 아래로 페이지 스크롤| scrollPageDown| 
-alt+PageUp| 페이지 위로 스크롤| scrollPageUp| 
-ctrl+shift+[| 영역 접기| editor.fold| 
-ctrl+shift+]| 영역 펼치기| editor.unfold| 
-ctrl+k ctrl+[| 현재 영역 접기| editor.foldRecursively| 
+ctrl+alt+Down| 커서를 아래에 추가| editor.action.insertCursorBelow
+ctrl+alt+Up| 커서를 위에 추가| editor.action.insertCursorAbove
+ctrl+shift+\ | 일치하는 대괄호로 건너 뛰기| editor.action.jumpToBracket
+ctrl +]| 라인 들여쓰기| editor.action.indentLines
+ctrl+[| 라인 내어쓰기| editor.action.outdentLines 
+Home| 행의 시작으로 이동| cursorHome
+End| 행의 끝으로 이동| cursorEnd
+ctrl+End| 파일 끝으로 이동| cursorBottom
+ctrl+Home| 파일 시작으로 이동| cursorTop
+ctrl+Down| 스크롤 다운| scrollLineDown
+ctrl+Up| 스크롤 업| scrollLineUp
+alt+PageDown| 아래로 페이지 스크롤| scrollPageDown
+alt+PageUp| 페이지 위로 스크롤| scrollPageUp
+ctrl+shift+[| 영역 접기| editor.fold
+ctrl+shift+]| 영역 펼치기| editor.unfold
+ctrl+k ctrl+[| 현재 영역 접기| editor.foldRecursively
 ctrl+k ctrl+]| 현재 영역 펼치기| editor.unfoldRecursively
 ctrl+k ctrl+0| 모든 영역 접기| editor.foldAll
 ctrl+k ctrl+j| 모든 영역 펼치기| editor.unfoldAll
