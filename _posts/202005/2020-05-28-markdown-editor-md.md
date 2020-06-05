@@ -13,4 +13,6 @@ author: jw2471358
 ---
 
 ## open source online Markdown editor
-[Markdown Editor.md](https://pandao.github.io/editor.md/en.html)
+Markdown Editor.md
+<https://pandao.github.io/editor.md/en.html>
+<https://github.github.com/gfm/>
