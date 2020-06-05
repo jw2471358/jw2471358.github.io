@@ -33,12 +33,12 @@ ctrl+alt+방향기 위/아래   열편집
 | zebra stripes | are neat        |    $1 |
 
 
-키 | 명령 | 명령 ID
------------- | --------------- | --------------------
-ctrl+Enter| 아래에 행 삽입| editor.action.insertLineAfter
-ctrl+shift+Enter| 위에 행 삽입| editor.action.insertLineBefore
-alt+Down| 행을 아래로 이동| editor.action.moveLinesDownAction
-alt+Up| 행을 위로 이동| editor.action.moveLinesUpAction
+ 키 | 명령 | 명령 ID
+ :------------ | :--------------- | :--------------------
+ctrl+Enter | 아래에 행 삽입 | editor.action.insertLineAfter
+ctrl+shift+Enter | 위에 행 삽입 | editor.action.insertLineBefore
+alt+Down | 행을 아래로 이동 | editor.action.moveLinesDownAction
+alt+Up | 행을 위로 이동 | editor.action.moveLinesUpAction
 shift+alt+Down| 위에 행 복사 추가| editor.action.copyLinesDownAction
 shift+alt+Up| 아래에 행 복사 추가| editor.action.copyLinesUpAction
 ctrl+d| 다음 선택 찾기| editor.action.addSelectionToNextFindMatch
