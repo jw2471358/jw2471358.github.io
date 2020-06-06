@@ -1,3 +1,15 @@
+---
+layout: post
+title: vscode shortcut
+subtitle: 
+description: vscode shortcut
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/dev/ts_overview_ibhqxe.jpg
+category: vscode
+tags:
+  - vscode shortcut
+author: jw2471358
+---
+
 ### Visual Studio Code 자주 사용하는 단축키
 
 1. 검색 관련  
@@ -39,9 +51,13 @@ ctrl+alt+방향기 위/아래   열편집
 | shift+alt+Down| 위에 행 복사 추가| editor.action.copyLinesDownAction |
 | shift+alt+Up| 아래에 행 복사 추가| editor.action.copyLinesUpAction |
 | ctrl+d| 다음 선택 찾기| editor.action.addSelectionToNextFindMatch |
+
 | ctrl+k ctrl+d| 마지막 선택 항목을 다음 찾기 항목으로 이동| editor.action.moveSelectionToNextFindMatch |
+
 | ctrl+u| 마지막 커서 작업 실행 취소| cursorUndo | 
+
 | shift+alt+i| 선택한 각 줄 끝의 커서 삽입| editor.action.insertCursorAtEndOfEachLineSelected |
+
 | ctrl+shift+l| 현재 선택 항목을 모두 선택| editor.action.selectHighlights |
 | ctrl+f2| 현재 단어의 모든 항목 선택| editor.action.changeAll |
 | ctrl+i| 현재 행 선택| expandLineSelection | 
@@ -56,9 +72,13 @@ ctrl+alt+방향기 위/아래   열편집
 | shift+alt+Down| 위에 행 복사 추가| editor.action.copyLinesDownAction |
 | shift+alt+Up| 아래에 행 복사 추가| editor.action.copyLinesUpAction |
 | ctrl+d| 다음 선택 찾기| editor.action.addSelectionToNextFindMatch |
+
 | ctrl+k ctrl+d| 마지막 선택 항목을 다음 찾기 항목으로 이동| editor.action.moveSelectionToNextFindMatch |
+
 | ctrl+u| 마지막 커서 작업 실행 취소| cursorUndo | 
+
 | shift+alt+i| 선택한 각 줄 끝의 커서 삽입| editor.action.insertCursorAtEndOfEachLineSelected |
+
 | ctrl+shift+l| 현재 선택 항목을 모두 선택| editor.action.selectHighlights |
 | ctrl+f2| 현재 단어의 모든 항목 선택| editor.action.changeAll |
 | ctrl+i| 현재 행 선택| expandLineSelection | 
