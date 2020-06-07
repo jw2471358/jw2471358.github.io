@@ -9,7 +9,7 @@ category: life
 tags:
   - life
   - writing
-author: 
+author: jw2471358
 ---
 
 글 쓰기, 기억, 기록을 시작하다.
