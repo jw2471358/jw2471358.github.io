@@ -6,7 +6,7 @@ description: TypeScript 란?
 image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/dev/ts_overview_ibhqxe.jpg
 category: TypeScript
 tags:
-  - developer
+  - typescript
 author: jw2471358
 ---
 
@@ -153,3 +153,5 @@ TSLint 은 일련의 표준 및 지침을 준수하는지 TypeScript 코드를 �
 
 ### References
 <https://en.wikipedia.org/wiki/TypeScript>
+
+<https://typescript-kr.github.io/>
