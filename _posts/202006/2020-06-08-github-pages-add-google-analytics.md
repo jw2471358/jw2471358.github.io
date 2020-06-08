@@ -29,7 +29,6 @@ GitHub 페이지 사이트에 Google 웹 로그 분석 추적을 추가하는 �
 
 Jekyll은 이것을 쉽게 추가 할 수 있습니다. 이 코드가 포함 된 _includes 폴더 에 HTML 파일을 만듭니다 . 내 이름을 google_analytics.html로 지정했습니다. 그런 다음 기본 레이아웃에 다음을 추가하십시오 _layouts/default.html.  
 
-{% include google_analytics.html %}  
 \{\% include google_analytics.html %\}  
 
 몇 시간 내에 Google 애널리틱스에서 변경 사항을 확인하면 세션 시간, 인구 통계 및 기타 사이트 방문자에 대한 유용한 정보를 캡처하게 됩니다.
