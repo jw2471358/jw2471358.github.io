@@ -34,4 +34,4 @@ Jekyll은 이것을 쉽게 추가 할 수 있습니다. 이 코드가 포함 된
 몇 시간 내에 Google 애널리틱스에서 변경 사항을 확인하면 세션 시간, 인구 통계 및 기타 사이트 방문자에 대한 유용한 정보를 캡처하게 됩니다.
 
 ### References
-https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
+[Adding Google Analytics to GitHub Pages](https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html)
