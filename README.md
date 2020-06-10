@@ -98,8 +98,8 @@ Below are some properties you can change in your project `_config.yml`, check th
 ```
 # Site Settings
 name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+title: Jekflix | 기억과 공유
+description: 기억과 공유
 tags:
   - blog
   - template

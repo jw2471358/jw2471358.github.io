@@ -3,8 +3,8 @@
 # Type: string
 # The website name will appear in several places, the most important one is at the header.
 name: JW
-title: JW | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+title: JW | 기억과 공유
+description: 기억과 공유
 tags:
   - blog
   - template
