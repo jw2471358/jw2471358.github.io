@@ -10,8 +10,6 @@ tags:
 author: jw2471358
 ---
 
-![placeholder](https://upload.wikimedia.org/wikipedia/ko/1/13/%EC%99%80%ED%98%B8%EC%9E%A5%EB%A3%A1_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
-
 ### 와호장룡 뜻?
 와호장룡의 영문 제목인 'Crouching Tiger, Hidden Dragon'은 직역하면 '웅크린 호랑이와 숨은 용'이라는 뜻이다. 영화에 맞는 뜻으로 번역하면 '강호의 숨은 고수들' 정도가 될 것 같다.  
 
