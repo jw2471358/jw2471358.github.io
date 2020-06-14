@@ -3,7 +3,7 @@ layout: post
 title: 와호장룡 대본
 subtitle: 
 description: 와호장룡 대본
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/dev/google_analytics_u6y98p.jpg
+image: https://upload.wikimedia.org/wikipedia/ko/1/13/%EC%99%80%ED%98%B8%EC%9E%A5%EB%A3%A1_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg
 category: 와호장룡
 tags:
   - 와호장룡
