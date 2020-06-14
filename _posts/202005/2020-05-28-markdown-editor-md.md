@@ -16,3 +16,5 @@ author: jw2471358
 Markdown Editor.md
 <https://pandao.github.io/editor.md/en.html>
 <https://github.github.com/gfm/>
+
+<https://www.markdownguide.org/tools/jekyll/>
