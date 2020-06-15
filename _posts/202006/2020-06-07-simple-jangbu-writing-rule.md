@@ -3,7 +3,7 @@ layout: post
 title: 간편장부 작성요령
 subtitle: 
 description: vscode shortcut
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/me/simple_jangbu_epxv7x.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/me/%EC%A2%85%ED%95%A9%EC%86%8C%EB%93%9D%EC%84%B8_%EC%8B%A0%EA%B3%A0_cswtdw.jpg
 category: 간편장부
 tags:
   - 간편장부
