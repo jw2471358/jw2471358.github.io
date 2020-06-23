@@ -3,7 +3,7 @@ layout: post
 title: spring MVC pattern
 subtitle: 
 description: spring MVC pattern
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/dev/google_analytics_u6y98p.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_760/v1591001871/pixabay/strawberries-5210753_1920_tzfpb9.jpg
 category: spring
 tags:
   - MVC

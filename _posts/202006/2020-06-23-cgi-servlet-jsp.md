@@ -3,7 +3,7 @@ layout: post
 title: CGI 그리고 Servlet과 JSP와의 관계
 subtitle: 
 description: CGI 그리고 Servlet과 JSP와의 관계
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1592579222/me/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84%EB%93%B1%EB%A1%9D%EB%B6%80_vrqfox.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1592579222/pixabay/minimal-5000883_1920_syq9yg.jpg
 category: CGI 그리고 Servlet과 JSP와의 관계
 tags:
   - CGI

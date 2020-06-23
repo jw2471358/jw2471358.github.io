@@ -3,7 +3,7 @@ layout: post
 title: bootstrap 프레임워크로 웹 프로젝트 만들기
 subtitle: 
 description: bootstrap 프레임워크로 웹 프로젝트 만들기
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_599,q_auto,w_700/v1592202880/me/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC_%EA%B5%AC%EC%84%B1_gkyjbp.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_599,q_auto,w_700/v1592202880/pixabay/skateboard-5221914_1920_gmxuzw.jpg
 category: bootstrap
 tags:
   - bootstrap
