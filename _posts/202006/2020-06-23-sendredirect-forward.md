@@ -17,7 +17,7 @@ author: jw2471358
 1. Redirect 방식
 Redirect방식은 서블릿에서 response.sendRedirect("주소"); 로 사용한다.(Redirect방식은 웹애플리케이션 외부url 로도 이동가능하다. )  Redirect 는 아래 그림의 과정을 따라가며 이해할 수있다.
 
-![placeholder](http://www.javajigi.net/pages/viewpage.action?pageId=77)
+![placeholder](https://mblogthumb-phinf.pstatic.net/MjAxNzAxMTRfMjE2/MDAxNDg0Mzc5NjE0MDI0.elN4asx49UZrxb452CWoGMWn5gHMdyQ_Eflee8qUyD4g.nKY_TFqNSb-lGVkZRYRGiG242pQBN5qN5vVV2dYTy3cg.PNG.goddlaek/image.png?type=w800)
 
 ⓐ a.jsp에 Redirect 가 있고 클라이언트가 a.jsp를 서버에 요청 했을때 ⓑ 서버에서는  a.jsp가 이러한 페이지를 요청했다고 클라이언트에게 응답을 돌려준다. ⓒ 응답을 받은  클라이언트는 a.jsp에서 이동하려한 주소의 페이지를 서버에 새로 요청한다. ⓓ 서버는 해당하는 페이지에 대한 응답을 다시 클라이언트에 보내준다. 
 
@@ -32,7 +32,7 @@ dispatcher.forward(request, response);
 RequestDispatcher와 함께 forward를 사용하는데  RequestDispatcher 클래스에 현재 request,response를 담아 공유한다.
 forward 방식 역시 그림의 과정을 보자
 
-![placeholder](http://www.javajigi.net/pages/viewpage.action?pageId=77)
+![placeholder](https://mblogthumb-phinf.pstatic.net/MjAxNzAxMTRfMTYx/MDAxNDg0Mzg0NTcwMTc2.Y14BPFk-zA7gvP7iuonTZob4TFln7yTYJSuVHCDBTDIg.vgGXySVh5T4SZwEGf0NSW3ANcprgxxexHWGpPAP63vwg.PNG.goddlaek/image.png?type=w800)
 
 ⓐ a.jsp에 forward가 있고 클라이언트가 a.jsp를 서버에 요청한다. ⓑ 서버는 a.jsp 실행도중 forward에 의해 b.jsp를 요청받은뒤 ⓒ b.jsp에 대한 응답을 클라이언트에게 보낸다. 처음 브라우저는 a.jsp를 요청한뒤 서버에서 b.jsp로 이동된 줄 모르는 상태로 결과만 받기 때문에 돌아온 결과가 마치 a.jsp에 대한 응답인것처럼 a.jsp url로 b.jsp의 결과를 출력한다.
 
