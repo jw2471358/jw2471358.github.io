@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [JSP/Servlet] sendRedirect방식과 forward방식의 차이
+title: JSP/Servlet sendRedirect방식과 forward방식의 차이
 subtitle: 
-description: [JSP/Servlet] sendRedirect방식과 forward방식의 차이
+description: JSP/Servlet sendRedirect방식과 forward방식의 차이
 # image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1592579222/me/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84%EB%93%B1%EB%A1%9D%EB%B6%80_vrqfox.jpg
 category: JSP/Servlet
 tags:
