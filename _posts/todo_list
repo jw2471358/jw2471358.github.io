@@ -13,7 +13,8 @@ https://icons8.com/
 https://disqus.com/
 
 - GitHub Desktop 에서 'Push origin'이 안 될 경우 Git CMD 에서 git 명령어 입력
-C:\Users\tjkim\Documents\GitHub\jw2471358.github.io>git push
+cd C:\Users\tjkim\Documents\GitHub\jw2471358.github.io
+C:\Users\tjkim\Documents\GitHub\jw2471358.github.io> git push
 
 -----------------------------------------------------------------
 README.md 수정
