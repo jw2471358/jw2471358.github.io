@@ -81,7 +81,55 @@ The terminal process terminated with exit code: 1
 Terminal will be reused by tasks, press any key to close it.
 ```
 
+tasks.json 설정
+```json
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: gcc.exe build active file",
+			"command": "C:\\MinGW\\bin\\gcc.exe",
+			"args": [
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build"
+		}
+	]
+}
+```
+
 6) Run > Start Debugging (F5)
+
+launch.json 설정
+```json
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [          
+        {
+            "name": "C++ Launch (Windows) 시작",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\helloworld.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false
+        },
+```
 
 DEBUG CONSOLE
 -------------------------------------------------------------------
