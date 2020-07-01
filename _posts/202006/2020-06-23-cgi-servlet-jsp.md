@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CGI 그리고 Servlet과 JSP와의 관계
+title: CGI, Servlet, JSP와의 관계
 subtitle: 
-description: CGI 그리고 Servlet과 JSP와의 관계
+description: CGI, Servlet, JSP와의 관계
 image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1592579222/pixabay/minimal-5000883_1920_syq9yg.jpg
 category: CGI, Servlet, JSP
 tags:
@@ -22,6 +22,7 @@ author: jw2471358
 `CGI 프로그램은 서버에서 프로세스 단위로 실행이 된다`. `그러다보니 사용자의 요청이 많을때 서버에 부하가 크게 가게 되었고 프로세스 보다 더 작은 단위로 실행하는것이 필요했다. 그리고 웹 서버의 프로세스로서 인터프리터를 상주시키고, CGI로부터 프로그램을 호출해 (즉, 스레드 단위로 실행) 부하를 줄임으로써 성능을 개선한 Java Servlet이 등장했다`.
 ※Servlet 외 mod perl, mode php, FastCGI 등이 있다.
 
+웹 서버에서 어플리케이션을 작동시키기 위한 인터페이스입니다. 정적인 웹서버를 동적으로 기능하게 하기 위해서 등장하였습니다. 서버 프로그램과 외부 프로그램 간의 인터페이스가 바로 CGI입니다. 근래에는 웹 서버의 프로세스로서 인터프리터를 상주시킴으로써, CGI로부터 프로그램을 호출해 부하를 줄임으로써 성능을 개선한 Java Servlet나 mod perl, mod php, FastCGI 등도 공개되었습니다. 기존에는, 웹서버가 있고 클라이언트에서 외부 프로그램이 필요한 리퀘스트가 들어오면 CGI를 통해 외부 프로그램을 실행시켜 리퀘스트에 응답하도록 했지만 `요즘에는 웹서버에 인터프리터를 내장함으로써 따로 프로세스를 fork하여 외부 프로그램을 실행시키지 않고 내부에서 다 처리합니다`.
 
 #### Servlet
 `Servlet은 Tomcat이 이해할수 있는 순수 Java 코드로만 이루어진 웹서버용 클래스이다`. Java에서는 Servlet을 이용하여 CGI 프로그래밍을 할 수 있으며 Servlet은 프로그램이 실행될 때 스레드 단위로 실행되어 서버의 부하를 줄이고 CGI프로그래밍시 직접 코드에 설정을 추가해줘야 했던 것을 없애줘 CGI프로그래밍을 쉽게 만들었다.
@@ -33,3 +34,5 @@ author: jw2471358
 
 ### References
 <https://m.blog.naver.com/PostView.nhn?blogId=goddlaek&logNo=220901890910&proxyReferer=https:%2F%2Fwww.google.com%2F>
+
+<https://brownbears.tistory.com/350>
