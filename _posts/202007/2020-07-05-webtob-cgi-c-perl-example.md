@@ -220,7 +220,7 @@ alias1         URI = "/cgi-bin/",
 
 - Perl 스크립트 작성 guestbook.cgi
 
-```Perl
+```perl
 #guestbook.cgi
 
 #!/usr/local/bin/perl

@@ -40,7 +40,7 @@ POST방식으로 요청한 경우에는 서버측 환경변수 CONTENT_LENGTH에
 
 #### posttest.exe
 
-```C
+```c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -91,7 +91,7 @@ int main(void) {
 
 대부분의 웹 서버에서 CGI 메커니즘은 다음과 같은 방식으로 표준화되었습니다. 서버가 루트로 간주하는 일반 디렉토리 트리에서 cgi-bin 이라는 서브 디렉토리를 작성하십시오 . (이전 디렉토리의 그림에서이 디렉토리를 볼 수 있습니다.) 그러면 서버는 특수 cgi-bin 디렉토리에서 요청 된 모든 파일을 읽고 전송하는 것이 아니라 실행 해야한다는 것을 이해 합니다. 실행 된 프로그램의 출력은 실제로 페이지를 요청한 브라우저로 전송 된 것입니다. 실행 파일은 일반적으로 C 컴파일러 출력과 같은 순수한 실행 파일 이거나 PERL 스크립트입니다. PERL은 CGI 스크립팅에 널리 사용되는 언어입니다.
 
-```C
+```c
 #include <stdio.h>
 
 int main()
@@ -126,7 +126,7 @@ chmod 755 simplest.pl
 
 The whole point of CGI scripting, however, is to create dynamic content -- each time the script executes, the output should be different. After all, if the output is the same every time you run the script, then you might as well use a static page. The following C program demonstrates very simple dynamic content:
 
-```C
+```c
 #include <stdio.h>
 
 int incrementcount()
@@ -204,7 +204,7 @@ mv mult.cgi ./cgi-bin
 
 실행 파일의 일반적인 확장명은 .cgi 및 .exe입니다.
 
-```C
+```c
 #include <stdio.h>
 int main(void) {
   printf("Content-Type: text/plain;charset=us-ascii\n\n");
