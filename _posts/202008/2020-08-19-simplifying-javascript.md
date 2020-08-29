@@ -4,7 +4,7 @@ title: 『책』자바스크립트 코딩의 기술
 subtitle: 
 description: 책 자바스크립트 코딩의 기술
 # image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
-category: linux
+category: book
 tags:
   - 『책』자바스크립트 코딩의 기술
 author: jw2471358
