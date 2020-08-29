@@ -3,8 +3,7 @@ layout: post
 title: Linux 시스템 관리
 subtitle: 
 description: Linux 시스템 관리
-image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/me-nots-5302712_1920_ktf3cg
-.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/me-nots-5302712_1920_ktf3cg.jpg
 category: linux
 tags:
   - linux 시스템 관리
