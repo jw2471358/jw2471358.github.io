@@ -3,7 +3,7 @@ layout: post
 title: gcc 컴파일하는 방법
 subtitle: 
 description: gcc 컴파일하는 방법
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/crescent-4875339_1920_ccyjyw.jpg
 category: linux
 tags:
   - gcc 컴파일하는 방법

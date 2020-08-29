@@ -3,7 +3,7 @@ layout: post
 title: Linux 자동 빌드 도구
 subtitle: 
 description: Linux 자동 빌드 도구
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/garden-5315602_1920_oguecj.jpg
 category: linux
 tags:
   - linux 자동 빌드 도구

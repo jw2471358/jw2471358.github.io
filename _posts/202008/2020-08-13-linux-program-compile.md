@@ -3,7 +3,7 @@ layout: post
 title: Linux 프로그램과 컴파일
 subtitle: 
 description: Linux 프로그램과 컴파일
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/four-spotted-dragonfly-1811835_1920_mlxgz4.jpg
 category: linux
 tags:
   - linux 프로그램

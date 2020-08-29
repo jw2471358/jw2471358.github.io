@@ -3,7 +3,8 @@ layout: post
 title: escape characters
 subtitle: 
 description: escape characters
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/black-headed-gulls-1731511_1920_e6ucmn
+.jpg
 category: linux
 tags:
   - escape characters

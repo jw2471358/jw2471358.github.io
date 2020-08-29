@@ -3,7 +3,7 @@ layout: post
 title: 리눅스 디스크 모니터링 - iostat i/o 모니터링
 subtitle: 
 description: 리눅스 디스크 모니터링 - iostat i/o 모니터링
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/hill-5324149_1920_lahc91.jpg
 category: Linux
 tags:
   - Linux iostat i/o 모니터링

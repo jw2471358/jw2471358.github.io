@@ -3,7 +3,7 @@ layout: post
 title: Linux에서 DISK I/O 사용량 확인
 subtitle: 
 description: Linux에서 DISK I/O 사용량 확인
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/sunflower-5266745_1920_ge9oah.jpg
 category: Linux
 tags:
   - Linux DISK I/O

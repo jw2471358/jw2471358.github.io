@@ -3,7 +3,7 @@ layout: post
 title: 『책』아주 작은 습관의 힘
 subtitle: 
 description: 책 아주 작은 습관의 힘
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/wind-turbine-5163993_1920_ljtw9e.jpg
 category: book
 tags:
   - 『책』아주 작은 습관의 힘
