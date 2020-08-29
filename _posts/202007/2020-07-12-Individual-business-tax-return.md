@@ -3,7 +3,7 @@ layout: post
 title: 개인사업자 부가세 신고 방법
 subtitle: 
 description: 개인사업자 부가세 신고 방법
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/cycling-5178398_1920_qwahdp.jpg
 category: 부가세
 tags:
   - 부가세

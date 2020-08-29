@@ -3,7 +3,7 @@ layout: post
 title: 리눅스 make와 Makefile
 subtitle: 
 description: 리눅스 make와 Makefile
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/seascape-5236865_1920_cetbqt.jpg
 category: 리눅스
 tags:
   - 리눅스

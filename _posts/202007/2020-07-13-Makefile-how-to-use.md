@@ -3,7 +3,7 @@ layout: post
 title: Makefile 예제와 작성 방법 및 기본 패턴
 subtitle: 
 description: Makefile 예제와 작성 방법 및 기본 패턴
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/alpine-4347082_1920_fxyell.jpg
 category: Makefile
 tags:
   - Makefile

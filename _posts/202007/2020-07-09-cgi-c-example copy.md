@@ -3,7 +3,7 @@ layout: post
 title: CGI C Programming
 subtitle: 
 description: CGI C Programming
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/dog-4390885_1920_f82yat.jpg
 category: CGI
 tags:
   - CGI

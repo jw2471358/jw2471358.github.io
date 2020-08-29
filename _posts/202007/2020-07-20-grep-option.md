@@ -3,7 +3,7 @@ layout: post
 title: Linux grep 명령어 옵션
 subtitle: 
 description: Linux grep 명령어 옵션
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/moon-5224745_1920_ufjpll.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/sea-5213746_1920_vrp1ie.jpg
 category: linux
 tags:
   - grep
