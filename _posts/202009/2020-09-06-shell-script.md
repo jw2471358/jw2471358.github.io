@@ -3,7 +3,7 @@ layout: post
 title: Shell script
 subtitle: 
 description: Shell script
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/me-nots-5302712_1920_ktf3cg.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/landscape-5313115_1920_bse9w2.jpg
 category: linux
 tags:
   - Shell script

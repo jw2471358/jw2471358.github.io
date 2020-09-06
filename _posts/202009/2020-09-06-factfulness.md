@@ -3,7 +3,7 @@ layout: post
 title: FACTFULNESS 사실충실성
 subtitle: 
 description: FACTFULNESS 사실충실성
-# image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/me-nots-5302712_1920_ktf3cg.jpg
+image: https://res.cloudinary.com/douayt92p/image/upload/c_scale,h_399,q_auto,w_700/v1593004373/pixabay/seagull-5297122_1920_tzsntb.jpg
 category: book
 tags:
   - FACTFULNESS
